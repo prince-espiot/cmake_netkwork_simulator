@@ -1,0 +1,24 @@
+# ninja log v5
+4	10909	6616044707517587	NetworkSim1_autogen/timestamp	576ca911c5c930e0
+4	10909	6616044707517587	NetworkSim1_autogen/mocs_compilation.cpp	576ca911c5c930e0
+4	10909	6616044707517587	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/network-simulator-2/build-src-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/NetworkSim1_autogen/timestamp	576ca911c5c930e0
+4	10909	6616044707517587	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/network-simulator-2/build-src-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/NetworkSim1_autogen/mocs_compilation.cpp	576ca911c5c930e0
+10910	11140	6616044719505822	qrc_resources.cpp	b88268a40d19fdcb
+10910	11140	6616044719505822	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/network-simulator-2/build-src-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/qrc_resources.cpp	b88268a40d19fdcb
+11145	13093	6616044738385019	CMakeFiles/NetworkSim1.dir/qrc_resources.cpp.obj	3b21747f89c25a12
+11160	13530	6616044743102313	CMakeFiles/NetworkSim1.dir/simulator.cpp.obj	6c6697212b7851a2
+13094	26766	6616044874672806	CMakeFiles/NetworkSim1.dir/pcnode.cpp.obj	4268ad9401498331
+13533	27289	6616044879430058	CMakeFiles/NetworkSim1.dir/router.cpp.obj	4d78ee859adbdcfc
+26770	29337	6616044901107654	CMakeFiles/NetworkSim1.dir/endhost.cpp.obj	b1b17891c83aca
+11156	44534	6616045053130664	CMakeFiles/NetworkSim1.dir/main.cpp.obj	1fc50684d5abeec3
+11141	44715	6616045054699759	CMakeFiles/NetworkSim1.dir/NetworkSim1_autogen/mocs_compilation.cpp.obj	b4b168d61d3ef6f1
+11152	44840	6616045055919064	CMakeFiles/NetworkSim1.dir/dialog.cpp.obj	96d7cdd2085a9ec7
+11149	45285	6616045061046134	CMakeFiles/NetworkSim1.dir/mainwindow.cpp.obj	876d2a2eac67532e
+45286	46354	6616045071650060	NetworkSim1.exe	62567d8b28300448
+22	908	6616129284465634	NetworkSim1_autogen/timestamp	576ca911c5c930e0
+22	908	6616129284465634	NetworkSim1_autogen/mocs_compilation.cpp	576ca911c5c930e0
+22	908	6616129284465634	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/network-simulator-2/build-src-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/NetworkSim1_autogen/timestamp	576ca911c5c930e0
+22	908	6616129284465634	C:/Users/admin/OneDrive/Documents/MyC++/cpp-autumn2021/network-simulator-2/build-src-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/NetworkSim1_autogen/mocs_compilation.cpp	576ca911c5c930e0
+961	24222	6616129516837913	CMakeFiles/NetworkSim1.dir/mainwindow.cpp.obj	876d2a2eac67532e
+1001	24282	6616129517887289	CMakeFiles/NetworkSim1.dir/dialog.cpp.obj	96d7cdd2085a9ec7
+24283	27051	6616129537685903	NetworkSim1.exe	62567d8b28300448

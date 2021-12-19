@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Resources/diskette.png</file>
+        <file>Resources/logout.png</file>
+        <file>Resources/new-document.png</file>
+        <file>Resources/open.png</file>
+        <file>Resources/printer.png</file>
+        <file>Resources/save-file.png</file>
+        <file>Resources/statistics.png</file>
+        <file>Resources/tutorial.png</file>
+        <file>Resources/pc.png</file>
+        <file>Resources/router.png</file>
+    </qresource>
+</RCC>
